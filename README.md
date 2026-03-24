@@ -8,6 +8,7 @@ Here are some of the links to tools discussed during the first session.
 - [Pinterest](https://uk.pinterest.com/)
 - [Awwwards](https://www.awwwards.com/websites/)
 - [Dribble](https://dribbble.com/shots/popular/web-design)
+- [My Website](https://callumlewis.uk)
 
 *Licence free images*
 - [Unsplash](https://unsplash.com)
